@@ -99,3 +99,6 @@ p{
   .button-menu-toggle {
     display: none;
   }
+  .greeting {
+    text-align: center;
+  }
